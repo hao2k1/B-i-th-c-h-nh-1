@@ -55,7 +55,7 @@ class Employee
     {
         return yearOfBirth;
     }
-    public double getIncome()
+    public double getIncome()dkjfgufg
     {
         return salaryLever * basicSalary;
     }
